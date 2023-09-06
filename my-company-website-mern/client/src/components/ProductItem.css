@@ -1,0 +1,19 @@
+.product-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px;
+    background-color: #f9f9f9;
+}
+
+.product-item h3 {
+    font-size: 18px;
+}
+
+.product-item p {
+    font-size: 14px;
+}
+
+.product-item p.price {
+    font-weight: bold;
+}
